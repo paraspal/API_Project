@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "first_name": "Ranjith",
+      "last_name": "Balakrishnan",
+      "phone": "219-839-2819",
+      "id": 1
+    },
+    {
+      "phone": "123-456-7890",
+      "last_name": "Srinivasan",
+      "first_name": "SelvaKumar",
+      "id": 2
+    },
+    {
+      "phone": "123-456-7890",
+      "last_name": "Srinivasan",
+      "first_name": "SelvaKumar",
+      "id": 3
+    },
+    {
+      "phone": "123-456-7890",
+      "last_name": "Srinivasan",
+      "first_name": "SelvaKumar",
+      "id": 4
+    },
+    {
+      "phone": "123-456-7890",
+      "last_name": "Srinivasan",
+      "first_name": "SelvaKumar",
+      "id": 5
+    }
+  ]
+}
